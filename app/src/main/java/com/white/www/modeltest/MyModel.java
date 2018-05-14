@@ -7,6 +7,6 @@ package com.white.www.modeltest;
 public class MyModel {
 
     public static int add(int a, int b) {
-        return a + b;
+        return a + b +1 ;
     }
 }
